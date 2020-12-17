@@ -1,2 +1,2 @@
-beautifulsoup4>4.7,<4.8
+beautifulsoup4>4.7,<4.9
 lxml
